@@ -3,10 +3,23 @@
 Ѐнта рѣпазіторія андінъва казачіва гітхаба. 
 
   <br> <details> 
-           <summary> **Ѵсе паблікѝ пра казакоѵ у сіцѣльнай сеткі «Telegram»**: </summary> 
+           <summary> **Ѵсе паблікѝ пра казакоѵ у сіцѣльнай сеткі «Telegram»:** </summary> 
       </details>
-<br>
-<br>
+      
+  <br> <details> 
+           <summary> **Ѵсе казачїи акаунтѝ ѝ паблікѝ у сіцѣльнай сеткі «TikTok»:** </summary> 
+      </details>
+
+  <br> <details> 
+           <summary> **Ѵсе казачїи акаунтѝ ѝ паблікѝ у сіцѣльнай сеткі «Instagram»:** </summary> 
+      </details>
+
+
+
+
+
+
+
   <br> <details> 
            <summary> **Ак дабавіть нешта сваї?** </summary>
            
@@ -15,6 +28,8 @@
   <br>@tsukumo7uku (Discord);
   <br>@tsukumo7uku (Instagram).
       </details>
+      
 <br>
 > Къзакѝ — ѐнта ѣзик!
+
 ### don_gutar
