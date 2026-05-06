@@ -8,6 +8,7 @@
 <br> • [Казаки: прошлое, настоящее, будущее](https://t.me/cossacs)
 <br> • [Казачій Стан](https://t.me/CossackCamp)
 <br> • [Казачїя Вівлїотіка](https://t.me/CossackLibrary)
+<br> • [ᚼ КАЗАЧИЙ КОШ ᚼ](https://t.me/KazakKosh)
 <br> • [Ѵсє а къзаках](https://t.me/Cossack_revival)
 <br>
 <br><b>Чятѝ</b>
