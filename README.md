@@ -4,6 +4,12 @@
 
   <br> <details> 
            <summary><b>Ѵсе паблікѝ пра казакоѵ у сіцѣльнай сеткі «Telegram»:</b></summary> 
+<br><b>Каналѝ</b>
+<br> • [Казаки: прошлое, настоящее, будущее](https://t.me/cossacs)
+<br> • [Ѵсє а къзаках](https://t.me/Cossack_revival)
+<br>
+<br><b>Чятѝ</b>
+<br> • [Казачий Сполох](https://t.me/CossackSpoloh)
       </details>
       
   <br> <details> 
