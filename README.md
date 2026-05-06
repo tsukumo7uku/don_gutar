@@ -6,6 +6,8 @@
            <summary><b>Ѵсе паблікѝ пра казакоѵ у сіцѣльнай сеткі «Telegram»:</b></summary> 
 <br><b>Каналѝ</b>
 <br> • [Казаки: прошлое, настоящее, будущее](https://t.me/cossacs)
+<br> • [Казачій Стан](https://t.me/CossackCamp)
+<br> • [Казачїя Вівлїотіка](https://t.me/CossackLibrary)
 <br> • [Ѵсє а къзаках](https://t.me/Cossack_revival)
 <br>
 <br><b>Чятѝ</b>
