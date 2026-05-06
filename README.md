@@ -21,6 +21,7 @@
 
   <br> <details> 
            <summary><b>Ѵсе казачїи акаунтѝ ѝ паблікѝ у сіцѣльнай сеткі «Instagram»:</b></summary> 
+<br> • [Казачїй Кош](https://www.instagram.com/kazachiy.kosh?igsh=OTJkdGt6b2wyMzZj)
       </details>
 
 
